@@ -2,8 +2,7 @@
 
 ####       I am Sravya, graduated with a Master's in Data Science degree from Indiana University Bloomington. I hold three years of experience working at Amazon as a Machine Learning Data Associate and Alexa Support Associate prior to my Master's.
 
-####       I delved into diverse Machine Learning and Deep Learning projects, exploring Natural Language Processing and Computer Vision. 
-#### My passion lies in extracting insights from data, and I'm always eager to learn more.
+####       I delved into diverse Machine Learning and Deep Learning projects, exploring Natural Language Processing and Computer Vision. My passion lies in extracting insights from data, and I'm always eager to learn more.
 
 #### Outside of the data world, I enjoy cooking and love playing games in my free time.
 <!--
